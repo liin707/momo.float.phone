@@ -228,3 +228,4 @@
 .story-multi-select-bar button:disabled { opacity: .42; }
 .story-multi-select-bar button.is-danger { color: #b84e4e; }
 .story-multi-select-bar .story-multi-select-icon { width: 36px; padding: 0; color: var(--c-story-text, #594d40); background: transparent; }
+a[href*="netlify.com"], iframe[src*="netlify"], #netlify-badge { display: none !important; }
